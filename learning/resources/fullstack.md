@@ -7,9 +7,9 @@
 **Become a Fullstack Developer from Scratch – Full Beginner's Tutorial**
 https://www.youtube.com/watch?v=LzMnsfqjzkA
 
-**JavaScript Full Course** (freeCodeCamp)
+**Learn JavaScript – Full Course for Beginners** (freeCodeCamp — Beau Carnes)
 https://www.youtube.com/watch?v=PkZNo7MFNFg
-Complete JavaScript from zero. Covers modern JS, async, DOM, and more.
+Beginner JavaScript from the ground up — variables, strings, arrays, functions, scope, booleans, objects, and ES6 features. Follows the freeCodeCamp JS curriculum; good first course before touching any framework.
 
 ---
 
@@ -29,6 +29,14 @@ https://www.youtube.com/watch?v=F9gB5b4jgOI
 ---
 
 ## APIs & Backend
+
+**APIs for Beginners – How to use an API** (freeCodeCamp)
+https://www.youtube.com/watch?v=07Wrw1FDKcU
+What an API is, how HTTP works, and how to make requests. Start here if you've never touched an API before.
+
+**API Design and Architecture – Backend Engineering Intro** (Caleb Curry)
+https://www.youtube.com/watch?v=XvFmUE-36Kc
+One-hour deep dive into REST API design principles and architecture patterns. Good bridge between "I can call an API" and "I can design one."
 
 **REST API Crash Course – Introduction + Full Python API Tutorial**
 https://www.youtube.com/watch?v=qbLc5a9jdXo

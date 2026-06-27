@@ -28,6 +28,10 @@ Practical-first PyTorch and deep learning. Starts with working code and works ba
 https://github.com/GokuMohandas/Made-With-ML
 Production ML — design, train, deploy, and monitor ML systems the right way.
 
+**End-to-End Machine Learning Project – AI, MLOps** (freeCodeCamp)
+https://www.youtube.com/watch?v=o6vbe5G7xNo
+Full build from raw data to deployed model, covering the MLOps lifecycle — experiment tracking, model registry, CI/CD, and monitoring.
+
 ---
 
 ## Neural Networks
@@ -60,6 +64,10 @@ The main library for working with pre-trained models. Read the docs and examples
 https://huggingface.co/learn/agents-course/
 How AI agents think and act. Free course covering tool use, memory, and multi-agent systems.
 
+**LLMs in Production vs Development** (Stripe Developers)
+https://www.youtube.com/watch?v=MB3XZG4jcQA
+19-minute breakdown of the practical gaps between building with LLMs locally vs. at production scale. Good orientation before you start deploying anything.
+
 ---
 
 ## RAG (Retrieval-Augmented Generation)
@@ -80,6 +88,14 @@ Advanced RAG — contextual compression, multi-vector retrieval, self-querying, 
 https://github.com/jamwithai/production-agentic-rag-course
 RAG in production — not just demos.
 
+**Complete RAG Crash Course With LangChain** (Krish Naik)
+https://www.youtube.com/watch?v=o126p1QN_RI
+Two-hour end-to-end RAG walkthrough using LangChain. Covers chunking, embeddings, retrieval, and chain construction in one sitting.
+
+**OpenAI Embeddings and Vector Databases Crash Course** (Adrian Twarog)
+https://www.youtube.com/watch?v=ySus5ZS0b94
+What embeddings are, how OpenAI's embedding API works, and how vector databases store and retrieve them. Essential groundwork before building any RAG system.
+
 ---
 
 ## Agents & Agentic Workflows
@@ -96,28 +112,45 @@ Taking agents from notebook to deployed systems.
 https://github.com/Shubhamsaboo/awesome-llm-apps
 100+ runnable AI agent and RAG apps. Clone, customise, ship.
 
-**Complete Agentic AI Course — LangChain, LangGraph, RAG, Guardrails, Evals (10 hours)**
+**Complete Agentic AI Course — LangChain, LangGraph, RAG, Guardrails, Evals (10 hours)** (Krish Naik)
 https://www.youtube.com/watch?v=rV3HJ4LEZ7k
+Everything in one video: LangChain v1, LangGraph, RAG, vectorless RAG, deep agents, guardrails, LLM evaluation, and gateways. The most comprehensive one-shot agentic AI resource available.
 
 ---
 
 ## AI Engineering (broad)
 
+**Google's AI Course for Beginners** (Jeff Su)
+https://www.youtube.com/watch?v=Yq0QkCxoTHM
+Nine-minute conceptual overview of what AI is and how it works. Watch this first if you're completely new to the space.
+
 **Full Walkthrough: Workflow for AI Coding** (Matt Pocock)
 https://www.youtube.com/watch?v=-QFHIoCo-Ko
 How to actually structure AI coding work — not just vibe coding.
 
-**AI Course for Developers – Build AI-Powered Apps with React**
+**AI Course for Developers – Build AI-Powered Apps with React** (Programming with Mosh)
 https://www.youtube.com/watch?v=PtETUYa3i2Q
+Full course on integrating AI APIs into a React app. Covers streaming responses, tool calling, and building a production-ready AI interface.
 
-**Build and Deploy a Production-Grade AI Project**
+**Build and Deploy a Production-Grade AI Project** (Ayush Singh)
 https://www.youtube.com/watch?v=7Q1rkgYh6ms
+First-ever production-grade AI project walkthrough on YouTube — full build and deploy covering architecture decisions, not just demo code.
 
-**Build and Deploy a Polished AI Project**
+**Build and Deploy a Polished AI Project** (freeCodeCamp)
 https://www.youtube.com/watch?v=ObiAWFqgpMg
+End-to-end build of a polished AI project with deployment. Focused on productionizing and getting it in front of users.
 
-**Open Source AI In 17 Minutes**
+**Open Source AI In 17 Minutes** (Tina Huang)
 https://www.youtube.com/watch?v=1uCE0uoKXL8
+Concise breakdown of the open-source AI landscape — what's available, what's good, and how it compares to closed models.
+
+**Build & Sell with Claude Code** (Nate Herk)
+https://www.youtube.com/watch?v=mpALXah_PBg
+10+ hour course on building real products and automations with Claude Code and turning them into paid work.
+
+**CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026)** (Nick Saraev)
+https://www.youtube.com/watch?v=QoQBzR1NIqI
+Four-hour comprehensive guide to building and selling software with Claude Code. Covers workflow, prompting patterns, and productizing AI output.
 
 **AI Engineering From Scratch** (rohitg00)
 https://github.com/rohitg00/ai-engineering-from-scratch

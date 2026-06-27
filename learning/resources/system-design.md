@@ -6,6 +6,10 @@ System design comes up in almost every senior engineering interview and in a lot
 
 ## Core resource
 
+**System Design Course – APIs, Databases, Caching, CDNs, Load Balancing & Production Infra** (freeCodeCamp)
+https://www.youtube.com/watch?v=C842vFY5kRo
+Video course covering every layer of a production system from APIs to CDNs. Good companion to System Design Primer if you prefer watching before reading.
+
 **System Design Primer** (donnemartin)
 https://github.com/donnemartin/system-design-primer
 The most comprehensive open-source system design resource. Covers load balancing, caching, databases, CDNs, consistency models, API design. Read this.
@@ -37,9 +41,9 @@ L7 proxy and communication bus for large distributed systems. Good to understand
 
 ## Backend languages
 
-**Java Full Course [NEW]**
+**Java Full Course [NEW]** (Amigoscode — Nelson)
 https://www.youtube.com/watch?v=Qgl81fPcLc8
-Java is still heavily used in enterprise backend systems and Android.
+Four-hour beginner course covering the full Java foundation — JDK setup, primitives vs. reference types, packages, variables, classes, and how the JVM compiles and runs your code. Start here if Java is new to you.
 
 **Spring Boot Full Course**
 https://www.youtube.com/watch?v=9SGDpanrc8U
